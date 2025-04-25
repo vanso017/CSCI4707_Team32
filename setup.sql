@@ -1,0 +1,13 @@
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\createdatabase.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\customer.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\employee.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\book.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\author.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\order.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\payment.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\inventory.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\assists.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\manages.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\tracks.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\writes.sql
+\source C:\Users\hrtho\Desktop\bookstore_db_setup\contains.sql

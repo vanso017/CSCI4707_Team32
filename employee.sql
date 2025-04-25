@@ -1,0 +1,7 @@
+CREATE TABLE EMPLOYEE(
+EmployeeID INT NOT NULL,
+Fname VARCHAR(15),
+Lname VARCHAR (15),
+Hire_Date DATE,
+Job_Type VARCHAR(15),
+PRIMARY KEY(EmployeeID));

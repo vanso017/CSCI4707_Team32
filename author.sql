@@ -1,0 +1,7 @@
+CREATE TABLE AUTHOR(
+	AuthorID INT NOT NULL,
+	Fname VARCHAR(15),
+	Lname VARCHAR (15),
+	Biography VARCHAR(1000),
+PRIMARY KEY(AuthorID)
+);
