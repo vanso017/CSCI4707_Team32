@@ -1,7 +1,7 @@
 CREATE TABLE ORDERS(
 	OrderID INT NOT NULL,
 	Shipping_Date DATE,
-	Payment_Status DATE,
+	Payment_Status BOOLEAN,
 	Shipping_Address VARCHAR(225),
 	Order_Date DATE,
 	PaymentID INT,
