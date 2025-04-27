@@ -13,17 +13,17 @@ B. Bash (not preferred):
 
 
 Contents:
-setup.sql -This file will run all other scripts - requires 
-createdatabase.sql -creates database
-customer.sql -creates table
-employee.sql -creates table
-book.sql -creates table
-author.sql -creates table
-order.sql -creates table
-payment.sql -creates table
-inventory.sql -creates table
-assists.sql -creates table
-manages.sql -creates table
-tracks.sql -creates table
-writes.sql -creates table
-contains.sql -creates table
+setup.sql -This file will run all other scripts in the proper order (same as below) - requires all files be in the same directory as the shell
+1. createdatabase.sql -creates database
+2. customer.sql -creates table
+3. employee.sql -creates table
+4. book.sql -creates table
+5. author.sql -creates table
+6. order.sql -creates table
+7. payment.sql -creates table and adds a foreign key to order
+8. inventory.sql -creates table
+9. assists.sql -creates table
+10. manages.sql -creates table
+11. tracks.sql -creates table
+12. writes.sql -creates table
+13. contains.sql -creates table
