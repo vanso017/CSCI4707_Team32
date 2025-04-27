@@ -23,7 +23,7 @@ setup.sql -This file will run all other scripts in the proper order (same as bel
 7. payment.sql -creates table and adds a foreign key to order
 8. inventory.sql -creates table
 9. assists.sql -creates table
-10. manages.sql -creates table
+10. manages.sql -creates table makes sure that if book quantity is less than 5 notify is set to TRUE
 11. tracks.sql -creates table
 12. writes.sql -creates table
 13. contains.sql -creates table
